@@ -1,7 +1,10 @@
-# Analysing a Two pendulum crane, then Developing and Implementing a control system for it
+# Analysing a two pendulum crane, then Developing and Implementing a control system for it
 ENPM667-Final-Project
 
 **Description:**
+
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/106445479/172496443-0f295099-0b7e-4604-a5f9-917ea6430e30.png">
+
 
 
 ## Control of Robotic Systems 
