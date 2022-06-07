@@ -2,6 +2,13 @@
 ENPM667-Final-Project
 
 **Description:**
+- Equations of motion for the system
+- Obtain a Linearization of the given system
+- Controllable conditions for the linearized system
+- LQR Controller for the Linearized and the Non- Linear Systems
+- Determine the observability of the Linearized and Non-Linear Systems
+- Developing a Luenberger Observer for the system
+- LQG Controller for the Linearized and the Non- Linear Systems
 
 <img width="280" alt="image" src="https://user-images.githubusercontent.com/106445479/172496443-0f295099-0b7e-4604-a5f9-917ea6430e30.png">
 
