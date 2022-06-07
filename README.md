@@ -1,4 +1,8 @@
-# ENPM667-Final-Project
+# Analysing a Two pendulum crane, then Developing and Implementing a control system for it
+ENPM667-Final-Project
+
+**Description:**
+
 
 ## Control of Robotic Systems 
 
